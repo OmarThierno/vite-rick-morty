@@ -19,7 +19,7 @@ export default {
         <div class="fs-6 fst-italic">{{ cardObj.status }}</div>
         <div class="fw-light">{{ cardObj.species }}</div>
     </div>
-   
+   <div></div>
 </template>
 
 <style lang="scss" scoped>

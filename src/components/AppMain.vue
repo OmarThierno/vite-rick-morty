@@ -21,7 +21,6 @@ export default {
             <AppCard :cardObj="curObj"/>
         </div>
     </div>
-   
 </template>
 
 <style lang="scss" scoped>
